@@ -1,0 +1,3 @@
+﻿  Red Channel.cpp
+C:\Users\Ravichandra Chintam\Desktop\Intern\Red Channel\Red Channel\Red Channel.cpp(258): warning C4715: 'loginUser::login': not all control paths return a value
+  Red Channel.vcxproj -> C:\Users\Ravichandra Chintam\Desktop\Intern\Red Channel\x64\Debug\Red Channel.exe
